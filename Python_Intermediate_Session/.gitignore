@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 *.pyc
-.idea
 .vscode
+.idea
+__pycache__
