@@ -14,4 +14,4 @@
 
 ## _Miscellaneous_
 
-:arrow_format: [Click_me](https://github.com/kumar1987an/Python_August2021_Tutorials/blob/main/Python_Modules_Session)
+:arrow_formard: [Click_me](https://github.com/kumar1987an/Python_August2021_Tutorials/blob/main/Python_Modules_Session)
