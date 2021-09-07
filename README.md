@@ -11,3 +11,7 @@
 ## _Advanced_
 
 :arrow_forward: [Click_me](https://github.com/kumar1987an/Python_August2021_Tutorials/blob/main/Python_Advanced_Session)
+
+## _Miscellaneous_
+
+:arrow_format: [Click_me](https://github.com/kumar1987an/Python_August2021_Tutorials/blob/main/Python_Modules_Session)
