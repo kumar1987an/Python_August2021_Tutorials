@@ -2,7 +2,7 @@
 
 ## _Basics_
 
-:arrow_forward: [Click me](Python_Basics_Session/Python_Basics_Part1.ipynb) <br/>
+:arrow_forward: [Click me](Python_Basics_Session/Python_Basics.ipynb) <br/>
 
 ## _Intermediate_
 
